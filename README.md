@@ -36,10 +36,10 @@ Bem-vindo ao King of Case! Sua loja online completa de capinhas de celular perso
 
 # Próximos passos:
 
-Implementar mais opções de pagamento (cartão de crédito, boleto bancário, etc.).
-Criar um sistema de cadastro de clientes para compras futuras e acompanhamento de pedidos.
-Oferecer descontos e promoções personalizadas para fidelizar clientes.
-Implementar um sistema de avaliações de produtos para auxiliar na decisão de compra.
+- Implementar mais opções de pagamento (cartão de crédito, boleto bancário, etc.).
+- Criar um sistema de cadastro de clientes para compras futuras e acompanhamento de pedidos.
+- Oferecer descontos e promoções personalizadas para fidelizar clientes.
+- Implementar um sistema de avaliações de produtos para auxiliar na decisão de compra.
 
 # Tecnologias utilizadas:
 O King of Case foi desenvolvido com as seguintes tecnologias:
