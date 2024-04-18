@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const apiCapinhas = axios.create({baseURL: "http://localhost:8001/capinha"});
+const apiCapinhas = axios.create({baseURL: "https://my-json-server.typicode.com/SirReinato/kingOfCase_Server/capinhas"});
 
 async function getCapinhas() {
     const response = await apiCapinhas.get('/')
